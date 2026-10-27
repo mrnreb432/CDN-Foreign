@@ -1,0 +1,2 @@
+# CDN-Foreign
+Translated Name
