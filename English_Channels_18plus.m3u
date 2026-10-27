@@ -1,0 +1,513 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="PROMO",Program Promo
+https://raw.githubusercontent.com/ahan443/ahan-live/refs/heads/main/promo/index.m3u8
+
+#EXTINF:-1 tvg-id="pervy" tvg-name="Channel One" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="General" provider="fb:M3U_World_4K" ,Channel One HD
+https://edge02r.mediavitrina.ru/hls-livef5/1tv/index.m3u8?token=v2.O519u8Fy9MRtHCQFf16RhWTLaBzNOrgCy-oOSnXW_aY.XlGeQlVrDMNRdmezGoH93g4X3V0ne0kVgnchwwyjukM.1793380766.15c9af219f32363ebadd98caa448bbdf#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="rossia1" tvg-name="Russia 1" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="General" provider="fb:M3U_World_4K" ,Russia 1 HD
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="General" provider="fb:M3U_World_4K" ,NTV HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="mir" tvg-name="Mir" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="General" provider="fb:M3U_World_4K" ,Mir
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="otr" tvg-name="OTR" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="General" provider="fb:M3U_World_4K" ,OTR
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Channel Five" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="General" provider="fb:M3U_World_4K" ,Channel Five
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="piaty-int" tvg-name="Fifth Int" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="General" provider="fb:M3U_World_4K" ,Channel Five Int.
+http://178.124.153.123:44400/5kanal#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="tvcentr" tvg-name="TV Center" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="General" provider="fb:M3U_World_4K" ,TV Center
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="rentv" tvg-name="REN TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="General" provider="fb:M3U_World_4K" ,REN TV
+http://194.152.35.17/ren_tv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="tv3-ru" tvg-name="TV3" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="General" provider="fb:M3U_World_4K" ,TV3
+http://194.152.35.17/tv-3/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="zvezda" tvg-name="Zvezda" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="General" provider="fb:M3U_World_4K" ,Zvezda HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="cctv-ru" tvg-name="CCTV-Russian" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="General" provider="fb:M3U_World_4K" ,CGTN Russian
+https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="tv-brics" tvg-name="TV BRICS" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="General" provider="fb:M3U_World_4K" ,TV BRICS
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="tro" tvg-name="Union TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="General" provider="fb:M3U_World_4K" ,Union TV
+https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="bolshaya-azia" tvg-name="Greater Asia" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="General" provider="fb:M3U_World_4K" ,Greater Asia HD
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="kongresstv" tvg-name="Congress TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="General" provider="fb:M3U_World_4K" ,Congress TV
+http://live-3.otcnet.ru/congresstv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="krasnaya-linia" tvg-name="Red Line" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="General" provider="fb:M3U_World_4K" ,Red Line
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ldpr-tv" tvg-name="LDPR TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="General" provider="fb:M3U_World_4K" ,LDPR TV
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ont-by" tvg-name="ONT Belarus" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="General" provider="fb:M3U_World_4K" ,ONT
+http://194.158.222.36:6102/#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="prnk-tv" tvg-name="Pervyy Rossiyskiy Natsionalnyy kanal" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="General" provider="fb:M3U_World_4K" ,PRNK HD
+https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="euronews" tvg-name="EuroNews" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="News" provider="fb:M3U_World_4K" ,Euronews
+https://stream1.cinerama.uz/1024/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="belarus24" tvg-name="Belarus-24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="News" provider="fb:M3U_World_4K" ,Belarus 24 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="vmeste-rf" tvg-name="Together-RF" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="News" provider="fb:M3U_World_4K" ,VMESTE:RF HD
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="izvestia" tvg-name="Izvestia" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="News" provider="fb:M3U_World_4K" ,Izvestia HD
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="krik-tv" tvg-name="Krik-TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="News" provider="fb:M3U_World_4K" ,Krik TV
+http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="mir-24" tvg-name="Mir 24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="News" provider="fb:M3U_World_4K" ,Mir 24 HD
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="pervy-info-by" tvg-name="First News Channel" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="News" provider="fb:M3U_World_4K" ,First News Channel HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="rbk" tvg-name="RBC" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="News" provider="fb:M3U_World_4K" ,RBC HD
+http://online-video.rbc.ru/online/rbctvhd_1080p/index.m3u8?e=e6&t=ROkypZ#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="rossia-24" tvg-name="Russia 24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="News" provider="fb:M3U_World_4K" ,Russia 24
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="News" provider="fb:M3U_World_4K" ,TASS
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Sports" provider="fb:M3U_World_4K" ,Astrakhan.RU SPORT
+http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="viasat-sport" tvg-name="viju+ Sport" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Sports" provider="fb:M3U_World_4K" ,Viju+ sport
+http://46.53.200.153:7777/play/a01l/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="belarus5" tvg-name="Belarus 5 HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Sports" provider="fb:M3U_World_4K" ,Belarus 5 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="match-tv" tvg-name="Match!" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Sports" provider="fb:M3U_World_4K" ,Match!
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="sportivny" tvg-name="TV Sport" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Sports" provider="fb:M3U_World_4K" ,TV Sport
+http://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="football-ru" tvg-name="Futbol" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Sports" provider="fb:M3U_World_4K" ,Futbol HD
+http://178.124.179.122:8088/Setanta1/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="univer-tv" tvg-name="Univer TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Obrazovatelnye" provider="fb:M3U_World_4K" ,UNIVER
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="prosveschenie" tvg-name="Prosveshchenie" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Obrazovatelnye" provider="fb:M3U_World_4K" ,Prosveshchenie
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="cartoon-classics" tvg-name="Cartoon Classics" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Kids" provider="fb:M3U_World_4K" ,Cartoon Classics
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Kids" provider="fb:M3U_World_4K" ,Cartoon Network
+https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=SBAsUrxODR6nk6ktHKTpoQ&e=2090795468&scheme=https#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ducktv" tvg-name="Duck TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Kids" provider="fb:M3U_World_4K" ,Duck TV
+https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="karusel" tvg-name="Karusel" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Kids" provider="fb:M3U_World_4K" ,Karusel
+http://185.37.150.46/Karusel/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="mama" tvg-name="Mama" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Kids" provider="fb:M3U_World_4K" ,Mama
+http://194.152.35.17/mama/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="mult" tvg-name="Mult" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Kids" provider="fb:M3U_World_4K" ,Mult
+http://flussonic.mkpnet.ru/tv-c8b065a591077c26/video.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="radost-moya" tvg-name="Radost moya" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Kids" provider="fb:M3U_World_4K" ,Radost moya
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="sts-kids-hd" tvg-name="STS Kids HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Kids" provider="fb:M3U_World_4K" ,STS Kids
+http://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-name="Smotrim 100% Detskoe" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Kids" provider="fb:M3U_World_4K" ,Smotrim 100% Detskoe
+https://stream.smotrim.ru/hls2/fasttv05/playlist_3.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="solnce" tvg-name="Solntse" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Kids" provider="fb:M3U_World_4K" ,Solntse
+http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="shayantv" tvg-name="Shayan TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Kids" provider="fb:M3U_World_4K" ,Shayan TV (Tatarstan)
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="belarus3" tvg-name="Belarus 3 HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Culture" provider="fb:M3U_World_4K" ,Belarus 3 HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="kultura" tvg-name="Russia K" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Culture" provider="fb:M3U_World_4K" ,Russia K
+https://flussonic.mkpnet.ru/tv-111deaa2142146ee/video.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="smotrim-100-klassika" tvg-name="Smotrim 100% Klassika" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Culture" provider="fb:M3U_World_4K" ,Smotrim 100% Klassika
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="muzsoyuz" tvg-name="MuzSoyuz" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Khristianskie" provider="fb:M3U_World_4K" ,MuzSoyuz HD
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="soyuz" tvg-name="Soyuz" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Khristianskie" provider="fb:M3U_World_4K" ,Soyuz HD
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="spas" tvg-name="Spas" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Khristianskie" provider="fb:M3U_World_4K" ,Spas
+https://bonusspas.mediacdn.ru/cdn/spas/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment" provider="fb:M3U_World_4K" ,2x2
+http://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="rutube-tv" tvg-name="RUTUBE TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment" provider="fb:M3U_World_4K" ,RUTUBE TV
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=U_og5iHG6xVp0V3KXYMB0g&e=2070623479&scheme=https#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="belarus2" tvg-name="Belarus 2 HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment" provider="fb:M3U_World_4K" ,Belarus 2 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="domashny" tvg-name="Domashniy" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment" provider="fb:M3U_World_4K" ,Domashniy
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="zal-suda" tvg-name="Zal suda" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment" provider="fb:M3U_World_4K" ,Zal suda
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-name="Kaleydoskop TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment" provider="fb:M3U_World_4K" ,Kaleydoskop TV
+http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ntv-pravo" tvg-name="NTV Pravo" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment" provider="fb:M3U_World_4K" ,NTV Pravo
+http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="prodvizhenie" tvg-name="Prodvizhenie" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment" provider="fb:M3U_World_4K" ,Prodvizhenie
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="piatnica" tvg-name="Pyatnitsa!" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment" provider="fb:M3U_World_4K" ,Pyatnitsa!
+http://185.46.16.239:8000/Pyatnitsa#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="sts" tvg-name="STS" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment" provider="fb:M3U_World_4K" ,STS
+http://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="sts-love" tvg-name="STS Love" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment" provider="fb:M3U_World_4K" ,STS Love
+https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-name="Smotrim 100% Prazdnik" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment" provider="fb:M3U_World_4K" ,Smotrim 100% Prazdnik
+https://stream.smotrim.ru/hls2/fasttv04/playlist_3.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-name="Tvoe TV HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment" provider="fb:M3U_World_4K" ,Tvoyo TV HD
+http://tvoetv.space:8080/tvoetv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="super" tvg-name="Subbota!" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment" provider="fb:M3U_World_4K" ,Subbota
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment" provider="fb:M3U_World_4K" ,TNT
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=K-z3nz49R1oGQ-5yPSd8pg&e=2082157024&scheme=https#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment" provider="fb:M3U_World_4K" ,TNT HD
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="tnt4" tvg-name="TNT4" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment" provider="fb:M3U_World_4K" ,TNT4
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=zhnm9INH7ysOhS2LQStm2A&e=2070623480&scheme=https#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="tayna" tvg-name="Tayna" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment" provider="fb:M3U_World_4K" ,Tayna
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=hCc3BqSwghCQ0GRhDJ967A&e=2070623490&scheme=https#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="che" tvg-name="Che" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment" provider="fb:M3U_World_4K" ,Che!
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="yu" tvg-name="Yu" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment" provider="fb:M3U_World_4K" ,Yu
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="tvmchannel" tvg-name="TVMChannel" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment (Local)" provider="fb:M3U_World_4K" ,TVM Channel
+https://cdn-01.bonus-tv.ru/tvm_edge/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="vot-tv" tvg-name="VOTtv" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment (Local)" provider="fb:M3U_World_4K" ,VOT TV
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="deviatka" tvg-name="Devyatka TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment (Local)" provider="fb:M3U_World_4K" ,Devyatka
+http://devyatka.iptv2022.com/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="kolyma-plus" tvg-name="Kolyma-Plyus" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment (Local)" provider="fb:M3U_World_4K" ,Kolyma-Plyus
+https://tw2ywfm7jbp.a.trbcdn.net/livemaster/7phjk_live-papd7z4v92.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="metr" tvg-name="METR (Yoshkar-Ola)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment (Local)" provider="fb:M3U_World_4K" ,METR
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="mamonttv" tvg-name="Mamont TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment (Local)" provider="fb:M3U_World_4K" ,Mamont TV
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="pinsk-tv" tvg-name="Pinsk TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment (Local)" provider="fb:M3U_World_4K" ,Pinsk TV
+http://178.124.207.1:1780/tvp#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="sreda" tvg-name="Sreda" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment (Local)" provider="fb:M3U_World_4K" ,Sreda
+https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=-O-Abonlwf-bYzT5hrypYg&e=2070623505&scheme=https#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="trk-yugansk" tvg-name="TRK Yugansk" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment (Local)" provider="fb:M3U_World_4K" ,TRK Yugansk
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="teledom" tvg-name="Teledom" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment (Local)" provider="fb:M3U_World_4K" ,Teledom HD
+http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="teotv" tvg-name="Teo TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment (Local)" provider="fb:M3U_World_4K" ,Teo TV
+https://stream.teotv.ru/live/site360/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="tolk" tvg-name="Tolk" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Entertainment (Local)" provider="fb:M3U_World_4K" ,Tolk
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="bridge-tv" tvg-name="Bridge TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Music" provider="fb:M3U_World_4K" ,Bridge
+http://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Music" provider="fb:M3U_World_4K" ,DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="tnt-music" tvg-name="TNT-Music" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Music" provider="fb:M3U_World_4K" ,FON music
+http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v3a1/mono.ts.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="mezzo" tvg-name="Mezzo" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Music" provider="fb:M3U_World_4K" ,Mezzo
+http://live-3.otcnet.ru/Mezzo/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="retro-music-cz" tvg-name="Retro Music" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Music" provider="fb:M3U_World_4K" ,Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ru-tv" tvg-name="RU.TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Music" provider="fb:M3U_World_4K" ,RU TV
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=d-E-bxKy2v3EEJ94RQX9CA&e=2069285076&scheme=https#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ru-tv" tvg-name="RU.TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Music" provider="fb:M3U_World_4K" ,RU TV HD
+http://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="vostok-tv" tvg-name="East TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Music" provider="fb:M3U_World_4K" ,East TV
+http://109.200.130.122:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8?token=T0AKUktfQQsTWFUADApTBAcMAwNTUwBTVlJXVQEMVlNXBAFSXFJSUgZDG0RGR0NVAFVpXQYUClEKDxoVEUsGRGsLBhECFVcBCVUVShdHWF0EGgwEThRADFYUDBVWDFYPDUBOEV1PF1RDD1YKaldURghbUxZYWEUJXhoUWApnB1NZAwxXGg1BARNNFQ9GQxMKD01aWE4UUgxGRFdDARpZFAdSUAEaG0FSXhRZEkdKEwpDenIWThRVHUZTWEQNVw0UDkAPAE0PQR0TCEQ5R1ZCRBNdV1kHRBJfEAYUG0ZVAk5rAQ1dVlIARVgOWRUXCRMAQxQUWQ1YWRFdRGlHDVxBDBZbVgQMFR4=#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="viva-rus" tvg-name="VIVA Russia" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Music" provider="fb:M3U_World_4K" ,VIVA Russia
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="maydan" tvg-name="Maydan" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Music" provider="fb:M3U_World_4K" ,Maydan
+https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="muztv" tvg-name="Muz-TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Music" provider="fb:M3U_World_4K" ,Muz TV
+https://streaming.goodstream.icu/live/618.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="radio-shanson" tvg-name="Radio Chanson" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Music" provider="fb:M3U_World_4K" ,Radio Chanson
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-name="TV Channel Radio Country FM" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Music" provider="fb:M3U_World_4K" ,Country FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="shanson-tv" tvg-name="Chanson-TB" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Music" provider="fb:M3U_World_4K" ,Chanson TV
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="sony-turbo" tvg-name=".black" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Movies and Series" provider="fb:M3U_World_4K" ,.black
+http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="amedia1" tvg-name="A1" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Movies and Series" provider="fb:M3U_World_4K" ,Amedia 1
+http://mfe02.cliptv.az/dash/A1_SDoioioi65.ism/playlist.mpd#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="evrokino" tvg-name="Evrokino" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Movies and Series" provider="fb:M3U_World_4K" ,Evrokino
+http://185.46.16.239:8000/Yevrokino#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="kino-tv" tvg-name="CinemaTV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Movies and Series" provider="fb:M3U_World_4K" ,Cinema TV
+http://194.152.35.17/kino-tv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="kinosat" tvg-name="Movie Fan" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Movies and Series" provider="fb:M3U_World_4K" ,Movie Fan
+http://185.121.1.163:8083/Kinoman/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="star-cinema" tvg-name="Star Cinema Russia" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Movies and Series (Russian)" provider="fb:M3U_World_4K" ,Star Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="star-family" tvg-name="Star Family Russia" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Movies and Series (Russian)" provider="fb:M3U_World_4K" ,Star Family
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="viju TV1000 Russian" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Movies and Series (Russian)" provider="fb:M3U_World_4K" ,Viju TV1000 russkoe
+https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="kinosezon" tvg-name="CinemaSezon" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Movies and Series (Russian)" provider="fb:M3U_World_4K" ,CinemaSezon
+http://stitch.teletarget.ru/vintera/movieseason/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="mosfilm" tvg-name="Mosfilm. Golden Collection" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Movies and Series (Russian)" provider="fb:M3U_World_4K" ,Mosfilm. Golden Collection
+http://185.121.1.163:8083/Mosfilm/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ntv-serial" tvg-name="NTV Serial" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Movies and Series (Russian)" provider="fb:M3U_World_4K" ,NTV Serial
+http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ntv-xit" tvg-name="NTV-Khit" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Movies and Series (Russian)" provider="fb:M3U_World_4K" ,NTV Khit
+http://cdn2.ntv.ru/th_hit/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="russky-bestseller" tvg-name="Russian Bestseller" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Movies and Series (Russian)" provider="fb:M3U_World_4K" ,Russian Bestseller
+http://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="russky-roman" tvg-name="Russian Romance" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Movies and Series (Russian)" provider="fb:M3U_World_4K" ,Russian Romance
+http://185.46.16.239:8000/Russkiy_roman#fb:M3U_World_4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="PROMO",Program Promo
+https://raw.githubusercontent.com/ahan443/ahan-live/refs/heads/main/promo/index.m3u8
+
+#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-name="Smotrim 100% Men's" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Movies and Series (Russian)" provider="fb:M3U_World_4K" ,Smotrim 100% Men's
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="sovkino" tvg-name="Soviet Cinema" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Movies and Series (Russian)" provider="fb:M3U_World_4K" ,Soviet Cinema
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="chestny-detektiv" tvg-name="Chestnyy detektiv" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Movies and Series (Russian)" provider="fb:M3U_World_4K" ,Chestnyy detektiv
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-id="no_epg_cinema" group-title="Online Cinema" provider="fb:M3U_World_4K" ,Retrovision
+https://lbgo.bozztv.com/07/ushba-rvision/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-id="no_epg_cinema" group-title="Online Cinema" provider="fb:M3U_World_4K" ,Retrovision Classic
+https://lbgo.bozztv.com/07/ushba-rvisionclassic/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-id="no_epg_cinema" group-title="Online Cinema" provider="fb:M3U_World_4K" ,Retrovision Motor
+https://lbgo.bozztv.com/07/ushba-rvisionmotor/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-id="no_epg_cinema" group-title="Online Cinema" provider="fb:M3U_World_4K" ,Retrovision Movies
+https://lbgo.bozztv.com/07/ushba-rvisionmovies/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-id="no_epg_cinema" group-title="Online Cinema" provider="fb:M3U_World_4K" ,Retrovision Cinemapanorama
+https://lbgo.bozztv.com/07/ushba-rvisionkinopanorama/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Online Cinema" provider="fb:M3U_World_4K" ,Videokasseta HD
+https://vsd286.okcdn.ru/hls/20637991963205.m3u8/sig/UW9Ubg-f7Wo/expires/1792862889051/srcIp/202.51.185.205/urls/178.237.29.12/clientType/36/srcAg/CHROME/mid/17279622858565/video.m3u8?p#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="cityedem-kinoazia" tvg-name="Siti Edem - CinemaAziya" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Online Cinema" provider="fb:M3U_World_4K" ,Siti Edem - CinemaAziya
+https://cityeden.catcast.tv/content/34393/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="cityedem-kinoklas" tvg-name="Siti Edem - CinemaKlassika" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Online Cinema" provider="fb:M3U_World_4K" ,Siti Edem - CinemaKlassika
+https://cityeden.catcast.tv/content/34185/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="cityedem-kinomist" tvg-name="Siti Edem - CinemaMistika" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Online Cinema" provider="fb:M3U_World_4K" ,Siti Edem - CinemaMistika
+https://cityeden.catcast.tv/content/40783/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Online Cinema" provider="fb:M3U_World_4K" ,Smotrim (Movies and Series)
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Educational" provider="fb:M3U_World_4K" ,Discovery Channel HD
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="nano-hd" tvg-name="Nano HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Educational" provider="fb:M3U_World_4K" ,Nano HD
+http://185.23.80.23:8080/NANO_HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="rtd-ru" tvg-name="RT D Russian" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Educational" provider="fb:M3U_World_4K" ,RTD HD
+http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ugra-travel" tvg-name="Ugra Travel" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Educational" provider="fb:M3U_World_4K" ,Ugra Travel
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="akwatv" tvg-name="Akva TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Educational" provider="fb:M3U_World_4K" ,Akva TV
+http://stitch.teletarget.ru/vintera/aquatv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="zdorovoe-tv" tvg-name="Zdorovoe TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Educational" provider="fb:M3U_World_4K" ,Zdorovoe TV
+http://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="istoria" tvg-name="Istoriya" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Educational" provider="fb:M3U_World_4K" ,Istoriya
+http://185.46.16.239:8000/Istoriya#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="nauka-20" tvg-name="Nauka 2.0" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Educational" provider="fb:M3U_World_4K" ,Nauka
+https://vod.tuva.ru/nauka2/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="neizvestnaya-planeta" tvg-name="Neizvestnaya Planeta" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Educational" provider="fb:M3U_World_4K" ,Neizvestnaya Planeta
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-name="NTV Neizvestnaya Russia" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Educational" provider="fb:M3U_World_4K" ,Neizvestnaya Russia
+https://cdn.ntv.ru/unknown_russia/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="otkryty-mir" tvg-name="Otkrytyy mir" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Educational" provider="fb:M3U_World_4K" ,Otkrytyy mir
+http://v4.proofix.ru/0mir/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-name="Smotrim 100% Fakty" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Educational" provider="fb:M3U_World_4K" ,Smotrim 100% Fakty
+https://stream.smotrim.ru/hls2/fasttv06/playlist_3.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="doktor" tvg-name="Doktor" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Khobbi i uvlecheniya" provider="fb:M3U_World_4K" ,Doktor
+http://45.11.139.43:8555/doctor/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="drive" tvg-name="Drayv" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Khobbi i uvlecheniya" provider="fb:M3U_World_4K" ,Drayv
+http://185.46.16.239:8000/Drayv#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-name="Zagorodnaya zhizn" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Khobbi i uvlecheniya" provider="fb:M3U_World_4K" ,Zagorodnaya Zhizn
+http://185.57.68.33/40/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="muzhskoy" tvg-name="Muzhskoy" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Khobbi i uvlecheniya" provider="fb:M3U_World_4K" ,Muzhskoy
+https://flussonic.mkpnet.ru/tv-55c94e838b306657/tracks-v1a1/mono.ts.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ntv-style" tvg-name="NTV Stil zhizni" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Khobbi i uvlecheniya" provider="fb:M3U_World_4K" ,NTV Stil
+http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="nasha-tema" tvg-name="Nasha tema" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Khobbi i uvlecheniya" provider="fb:M3U_World_4K" ,Nasha Tema
+http://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-name="Okhotnik i rybolov" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Khobbi i uvlecheniya" provider="fb:M3U_World_4K" ,Okhotnik i rybolov
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=QzqPo5cuxaeOJDvPy-nBvg&e=2070623488&scheme=https#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="pervy-vegetariansky" tvg-name="Pervyy vegetarianskiy" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Khobbi i uvlecheniya" provider="fb:M3U_World_4K" ,Pervyy vegetarianskiy
+http://live-3.otcnet.ru/wfcrus/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="tonus-tv" tvg-name="Tonus TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Khobbi i uvlecheniya" provider="fb:M3U_World_4K" ,Tonus
+http://194.143.148.28:8080/Mir24/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="360-news" tvg-name="360° News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,360° News HD
+https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="360-podmoskovie" tvg-name="TV Channel 360" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,360°
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="6tv" tvg-name="6TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,6 TV
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="8kanal-krasnoyarsk" tvg-name="8 kanal (Krasnoyarskiy kray)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,8 kanal (Krasnoyarskiy kray)
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="8kanal-novosibirsk" tvg-name="8 kanal (Novosibirsk)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,8 kanal (Novosibirsk)
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="8vladik" tvg-name="8 kanal (Vladivostok)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,8 kanal (Vladivostok)
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="12-omsk" tvg-name="12 kanal Omsk" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,12 Kanal (Omsk)
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="31-kanal-chelyabinsk" tvg-name="31 kanal (Chelyabinsk)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,31 kanal (Chelyabinsk)
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="86-surgut" tvg-name="Surgut 86" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,86 Surgut
+https://sitv.ru/hls/s86.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="gln24" tvg-name="GLN 24 (Gelendzhik)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,GLN 24 (Gelendzhik)
+http://serv25.vintera.tv:8081/gelendzhik/stream_1/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="arxyz24" tvg-name="Arkhyz 24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Arkhyz 24 (Karachaevo-Cherkesiya)
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="astraxan24" tvg-name="Astrakhan 24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Astrakhan 24
+https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="atv-media" tvg-name="ATV-Media" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,ATV-Media
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="bars" tvg-name="Bars" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Bars
+https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=ZrXipYUZHniVrAVSwMJWhQ&e=2070623501&scheme=https#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="bst" tvg-name="Bashkirskoe sputnikovoe televidenie" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,BST
+http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="bst-bratsk" tvg-name="BST Bratsk" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,BST Bratsk
+https://bst.bratsk.ru/hls/bst2/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="vektor-24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Vektor 24 HD
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="vetta24" tvg-name="Vetta 24 Perm" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Vetta 24 (Perm)
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="volga" tvg-name="Volga" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Volga
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="volgograd-24" tvg-name="Volgograd 24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Volgograd 24
+http://88.87.79.40:8888/Volgograd24#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="vostok-24" tvg-name="East 24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,East 24
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="vsia-ufa" tvg-name="Vsya Ufa" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Vsya Ufa
+https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=eKlI_aa8PX3A-krCbqLsRA&e=2070623504&scheme=https#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="gorodskoy-yaroslavl" tvg-name="Gorodskoy telekanal (Yaroslavl)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Gorodskoy TV Channel-Yaroslavl
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="grozny" tvg-name="Groznyy" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Groznyy
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="gubernia-33" tvg-name="Guberniya 33" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Guberniya 33
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="gubernia-samara" tvg-name="Guberniya Samara" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Guberniya (Samara)
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="dzenzhinsk-tv" tvg-name="Dzerzhinsk TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Dzerzhinsk TV
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="doverie" tvg-name="Doverie" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Doverie (Moscow)
+https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="evrasia" tvg-name="Evraziya" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Evraziya (Orsk)
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="enisey-region" tvg-name="Enisey region" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Enisey HD (Krasnoyarsk)
+http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ivanovo-ot" tvg-name="Ivanovskoe obshchestvennoe televidenie" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Ivanovskoe obshchestvennoe televidenie
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="kavkaz24" tvg-name="Kavkaz 24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Kavkaz 24
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="kamcha-1" tvg-name="Kamchatka 1" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Kamchatka 1
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="kaskad24" tvg-name="Kaskad-24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Kaskad 24
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="katun-24" tvg-name="Katun 24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Katun 24
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ktv-luch" tvg-name="KTV-Luch (Syzran)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,KTV-Luch (Syzran)
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="lot-47" tvg-name="Len TV 24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Len TV 24
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_LENTV24HD_SPB.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="lipeck24" tvg-name="Lipetsk 24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Lipetsk 24
+https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=PxMZcpt76COiPH4EwWL3hw&e=2070623508&scheme=https#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="lipeckoe-vremia" tvg-name="Lipetsk Time" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Lipetsk Time
+https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=IOkUTZHoPSqNn0IukRgYNw&e=2070623511&scheme=https#fb:M3U_World_4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Lugansk 24
+https://streaming.televizor24.cc/live/29.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="mir-belogoria" tvg-name="Mir Belogorya" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Mir Belogorya
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="mordovia-24" tvg-name="Mordoviya 24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Mordoviya 24 HD (Saransk)
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="moskva-24" tvg-name="Moscow-24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Moscow 24
+https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="mtv-volgograd" tvg-name="MTV Volgograd" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,MTV HD (Volgograd)
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="muromtv" tvg-name="Murom TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Murom TV
+http://62.76.73.38/hls/stream.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="saxa" tvg-name="Sakha" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,NVK Sakha HD
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="nash-dom" tvg-name="Our Home" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Our Home
+http://85.234.33.63/stream/c11.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="nashi-goroda" tvg-name="Our Cities (Kogalym)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Our Cities (Kogalym)
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="next-tv" tvg-name="NEXT-TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,NEXT-TV
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="nika-tv" tvg-name="Nika TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Nika TV
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="nn-24" tvg-name="Nizhny Novgorod 24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Nizhny Novgorod 24 HD
+https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="novgorodskoe-obl-tv" tvg-name="Novgorodskoe Oblastnoe televidenie" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Novgorodskoe Oblastnoe televidenie
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="novy-vek-tambov" tvg-name="Novyy vek (Tambov)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,New Century (Tambov)
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ntm" tvg-name="Narodnoe televidenie Mordovii" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,NTM
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ntrk-ingushetia" tvg-name="NTRK Ingushetiya" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,NTRK Ingushetiya
+https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="nts-irbit" tvg-name="NTS-Irbit" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,NTS (Irbit)
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="nts-irkutsk" tvg-name="NTS (Irkutsk)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,NTS (Irkutsk)
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="nts-sevastopol" tvg-name="NTS (Sevastopol)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,NTS (Sevastopol)
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/tracks-v1a1/mono.ts.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="omsk-tv" tvg-name="Omsk TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Omsk TV
+https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=9LljursQaAxFdR0mnennUQ&e=2070623518&scheme=https#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="osetia-iryston" tvg-name="Osetiya-Iryston" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Osetiya-Iryston
+http://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ort-planeta-orenburg" tvg-name="ORT-Planeta (Orenburg)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,ORT-Planeta (Orenburg)
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="otv-chelyabinsk" tvg-name="OTV Chelyabinsk" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,OTV (Chelyabinsk)
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="otv-eburg" tvg-name="OTV Ekaterinburg" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,OTV (Ekaterinburg)
+https://vd.obltv.ru/watch/air_hd.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="otv-primorie" tvg-name="OTV Primore" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,OTV (Primore)
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="otv-saxalin" tvg-name="OTV Sakhalin" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,OTV (Sakhalin)
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ots" tvg-name="OTS" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,OTS
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c4eb/hls/1024x576@1272/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="pervouralsk-tv" tvg-name="Pervouralsk TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Pervouralsk TV
+https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=RqQza13Ro4UeKu7IwmQbHA&e=2070623502&scheme=https#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="pervy-gorodskoy-kirov" tvg-name="First City (Kirov)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,First City (Kirov)
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="pervy-oblastnoy-orel" tvg-name="First Regional Orel" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,First Regional (Orel)
+http://bl.webcaster.pro/media/playlist/free_140eac07a7991aa298f6a236b821adf0_hd/65_97993691/480p/c3ee180611bde15cd97252345bc860ac/4738299574.m3u8?live=15&ref=https://obl1.ru#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="pervy-rostovsky" tvg-name="Pervyy Rostovskiy" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Pervyy Rostovskiy
+https://rost.mediacdn.ru/cdn/rostov1/tracks-v2a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="pervy-tulsky" tvg-name="Pervyy tulskiy" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Pervyy Tulskiy
+http://5.164.24.83/tula/1tv_hi/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="pervy-yaroslavsky" tvg-name="Pervyy Yaroslavskiy" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Pervyy Yaroslavskiy
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="prima" tvg-name="Prima" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Prima  (Krasnoyarsk)
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="rgvk-dagestan" tvg-name="RGVK Dagestan" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,RGVK Dagestan
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ramenskoe-tv" tvg-name="Ramenskoe TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,RTV HD (Ramensk)
+https://e10-ll.facecast.net/rtv/0.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="zabajkajkalje" tvg-name="RTK Zabaykale" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,RTK Zabaykale
+http://stream.zrtk.ru/zrtk.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="rts-abakan" tvg-name="RTS - Abakan" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,RTS - Abakan
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="region29" tvg-name="Region 29" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Region 29
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="region67" tvg-name="Region 67" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Region 67
+http://212.3.155.126:8181/udp/233.67.67.177:5510#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="rifey-tv" tvg-name="Rifey-TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Rifey-TV
+https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=7e16kFowncLriG9eElNY7g&e=2070623512&scheme=https#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="rybinsk40" tvg-name="Rybinsk-40" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Rybinsk-40
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="salam" tvg-name="Salyam" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Salyam (Ufa)
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="samotlor-nv" tvg-name="Samotlor (Nizhnevartovsk)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Samotlor (Nizhnevartovsk)
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="sampo-tv" tvg-name="Sampo TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Sampo TV
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="tv21plus" tvg-name="TV-21+" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,TV-21+
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="tv7-abakan" tvg-name="TV-7 Abakan" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,TV-7 Abakan
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="tatarstan24" tvg-name="Tatarstan-24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Tatarstan 24
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="telemiks" tvg-name="Telemiks" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Telemiks
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="tk-variant" tvg-name="TK Variant" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,TK Variant
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="tumenskoe-vremia" tvg-name="Tyumenskoe vremya" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Tyumenskoe vremya
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="tvoya-tumen" tvg-name="TVoya Tyumen" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,TVoya Tyumen
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="udmurtia" tvg-name="Udmurtiya" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Udmurtiya
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ulianovskaya-pravda" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Ulyanovskaya pravda
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ural1" tvg-name="URAL1 (Chelyabinsk)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Ural 1
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="uchaly-tv" tvg-name="Uchaly TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Uchaly TV
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="chavash-en" tvg-name="Chavash EN" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Chavash EN
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="utv-cheboxary" tvg-name="YuTV Cheboksary" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,YuTV Cheboksary
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="yakutia24" tvg-name="Yakutiya 24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Yakutiya 24
+http://live-saha.cdnvideo.ru/saha/yak24rtmp/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="yugra" tvg-name="Yugra" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Yugra
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="yurgan" tvg-name="Yurgan" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Yurgan
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="efir24-relax" tvg-name="Efir" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Efir
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="echotv24" tvg-name="Ekho TV 24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Ekho TV 24
+http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="yamal-region" tvg-name="Yamal-Region" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Local" provider="fb:M3U_World_4K" ,Yamal-Region
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="PROMO",Program Promo
+https://raw.githubusercontent.com/ahan443/ahan-live/refs/heads/main/promo/index.m3u8
